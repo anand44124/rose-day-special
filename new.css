@@ -3,9 +3,6 @@
   box-sizing: border-box;
 }
 
-
-
-
 body {
   font-family: "Varela Round", "Quicksand", sans-serif;
   background: url(background.jpg);
@@ -17,7 +14,7 @@ body {
 .postcard {
   width: 800px;
   height: 500px;
-  background: rgba(, 88944, 125, 0.101);
+  background: aliceblue;
 
   margin: 0 auto;
   border-radius: 2%;
