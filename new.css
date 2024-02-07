@@ -3,12 +3,8 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family: "Varela Round", "Quicksand", sans-serif;
-  background: url(background.jpg);@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
-* {
-  box-sizing: border-box;
-}
+
+
 
 body {
   font-family: "Varela Round", "Quicksand", sans-serif;
@@ -114,7 +110,7 @@ p {
   font-family: cursive;
   font-weight: 540;
 }
-.ullu {
+.bhondhu {
   font-size: 25px;
 
   text-shadow: 0 0 20px rgb(255, 255, 255);
@@ -221,7 +217,7 @@ p {
   font-family: cursive;
   font-weight: 540;
 }
-.ullu {
+.bhondhu{
   font-size: 25px;
 
   text-shadow: 0 0 20px rgb(255, 255, 255);
