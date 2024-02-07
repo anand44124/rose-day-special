@@ -121,7 +121,7 @@ p {
 .postcard {
   width: 800px;
   height: 500px;
-  background: rgba(255, 255, 255, 0.101);
+  background: aliceblue;
 
   margin: 0 auto;
   border-radius: 2%;
